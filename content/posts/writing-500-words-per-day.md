@@ -1,5 +1,5 @@
 ---
-title: "Writing 500 words per day"
+title: "Writing (and publishing) 500 words per day"
 date: 2019-01-13T20:00:00+02:00
 draft: false
 ---
