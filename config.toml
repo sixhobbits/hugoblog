@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "sixhobbits.github.io/hugoblog/"
 languageCode = "en-us"
 title = "Gareth Dwyer"
 theme = "hugo-paper"
