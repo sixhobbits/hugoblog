@@ -20,3 +20,12 @@ What sets you apart from Guy, out slimey overconfident fraudster, is that you kn
 
 Do things you can't do, it's the only way you learn how to do them. 
 
+## New topics 
+
+### Today's (wasn't from list)
+
+### Enjoyment vs Satisfaction
+*Satisfaction is deeper and usually caused by things you don't enjoy. Language is imprecise and people make Bad Life Choices because they don't think about what words mean, or have clear mental concepts for specific words*
+
+
+
