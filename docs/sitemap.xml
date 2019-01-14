@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/fake-it-till-you-make-it-ethics/</loc>
+    <lastmod>2019-01-14T09:12:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/writing-500-words-per-day/</loc>
     <lastmod>2019-01-13T20:00:00+02:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/</loc>
-    <lastmod>2019-01-13T20:00:00+02:00</lastmod>
+    <lastmod>2019-01-14T09:12:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/</loc>
-    <lastmod>2019-01-13T20:00:00+02:00</lastmod>
+    <lastmod>2019-01-14T09:12:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
