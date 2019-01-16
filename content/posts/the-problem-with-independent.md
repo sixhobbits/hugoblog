@@ -21,3 +21,4 @@ If you work for yourself, you won't be treated as a resource, but you won't be i
 * **Generalising vs Specialising**: when does it pay to double down on your existing skills compared to learning new ones? Jack of all tradse and master of none? Or "that guy who can do stuff"? 
 * **Being suspicious of hype while still keeping up with modern changes**: how far should you take "get off my lawn" when the young'uns come to you with their AI blockchains, and how far should you investigate and try these to see how much substance there is? Is there an inverse relation between your age and how much new stuff you want to try instinctively? 
 
+

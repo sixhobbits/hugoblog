@@ -19,11 +19,8 @@ Finally, I'll set up a static page generator and website to learn more about how
 
 Anyway, that's 500 words. The topic list will start with:
 
-## Miscalculating risks: why you should aim for small frequent losses
-*A rehash of Taleb's idea that most people over-estimate the downside of losing a few dollars a day for the chance to win big, and under-estimate the downside of winning a few dollars a day while risking large losses, combined with Freakonomics idea that we over-bias towards "default" options -- e.g. if you're not sure if you should quit your job, you probably should*.
-
-## The problem of going independent 
-*An explanation of why autonomy is great, and why we should be very suspicious of a system in which we are encouraged to voluntarily give up autonomy and take on a boss (link to PG's boss essay), but also exploring the other side -- becoming independent and not being pushed to learn new things, with a high risk of being left with no advancement and a set of defunct skills*.
+* **Miscalculating risks: why you should aim for small frequent losses**: *A rehash of Taleb's idea that most people over-estimate the downside of losing a few dollars a day for the chance to win big, and under-estimate the downside of winning a few dollars a day while risking large losses, combined with Freakonomics idea that we over-bias towards "default" options -- e.g. if you're not sure if you should quit your job, you probably should*.
+* **The problem of going independent**: *An explanation of why autonomy is great, and why we should be very suspicious of a system in which we are encouraged to voluntarily give up autonomy and take on a boss (link to PG's boss essay), but also exploring the other side -- becoming independent and not being pushed to learn new things, with a high risk of being left with no advancement and a set of defunct skills*.
 
 
 

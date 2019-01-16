@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Gareth Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jan 2019 09:01:25 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jan 2019 19:04:51 +0200</lastBuildDate>
     
 	<atom:link href="https://sixhobbits.github.io/hugoblog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Embracing the Paradox</title>
+      <link>https://sixhobbits.github.io/hugoblog/posts/embracing-the-paradox/</link>
+      <pubDate>Wed, 16 Jan 2019 19:04:51 +0200</pubDate>
+      
+      <guid>https://sixhobbits.github.io/hugoblog/posts/embracing-the-paradox/</guid>
+      <description>&amp;ldquo;All models are wrong, but some are useful&amp;rdquo;, someone smart once said.
+A common mistake people make is to have mental models in too few dimensions. This is understandable because thinking in multiple dimensions is a known human weakness. If you want to visualise something in 17 dimensional space, you have to visualise it in 3 dimensional space and say &amp;ldquo;17&amp;rdquo; to yourself repeatedly.
+But I digress. Take introverts for example.</description>
+    </item>
     
     <item>
       <title>The Problem With Going Independent</title>
