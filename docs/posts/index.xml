@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Gareth Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jan 2019 21:36:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jan 2019 09:08:47 +0200</lastBuildDate>
     
 	<atom:link href="https://sixhobbits.github.io/hugoblog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Risk Calculation and Human Biases</title>
+      <link>https://sixhobbits.github.io/hugoblog/posts/risk-calculation-and-human-biases/</link>
+      <pubDate>Fri, 18 Jan 2019 09:08:47 +0200</pubDate>
+      
+      <guid>https://sixhobbits.github.io/hugoblog/posts/risk-calculation-and-human-biases/</guid>
+      <description>Most days that you live through, you do some kind of risk calculations. We&amp;rsquo;re seldom certain about anything, so we learn to estimate probabilities based on a wide range of knowledge and experiences, and hope for the best.
+Most of us humans get pretty good at this, and we use this risk calculation skill to stay alive, pursue happiness, make money, and help other people.
+We also have a bunch of annoying biases though, and these biases often lead us to make the wrong choices.</description>
+    </item>
     
     <item>
       <title>Enjoyment vs Satisfaction</title>
