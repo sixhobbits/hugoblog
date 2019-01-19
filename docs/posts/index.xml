@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Gareth Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jan 2019 09:08:47 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jan 2019 19:16:43 +0200</lastBuildDate>
     
 	<atom:link href="https://sixhobbits.github.io/hugoblog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hype</title>
+      <link>https://sixhobbits.github.io/hugoblog/posts/hype/</link>
+      <pubDate>Sat, 19 Jan 2019 19:16:43 +0200</pubDate>
+      
+      <guid>https://sixhobbits.github.io/hugoblog/posts/hype/</guid>
+      <description>People like hype. Hype is hard to identify when it&amp;rsquo;s happening, and is easy to identify with hindsight. Hype can last for different amounts of time - anything from minutes to decades.
+Hype in the world of technology is bad. A recurring theme is people getting very excited about some new technology and spending thousands of hours learning about it, building programmes or even whole schools around it, and over-saturating the market without producing much value.</description>
+    </item>
     
     <item>
       <title>Risk Calculation and Human Biases</title>
