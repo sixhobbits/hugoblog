@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Gareth Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jan 2019 19:16:43 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jan 2019 13:05:27 +0200</lastBuildDate>
     
 	<atom:link href="https://sixhobbits.github.io/hugoblog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Technical Interviews</title>
+      <link>https://sixhobbits.github.io/hugoblog/posts/technical-interviews/</link>
+      <pubDate>Sun, 20 Jan 2019 13:05:27 +0200</pubDate>
+      
+      <guid>https://sixhobbits.github.io/hugoblog/posts/technical-interviews/</guid>
+      <description>Many programmers don&amp;rsquo;t like the style of technical interviews given by most companies. In these &amp;ldquo;whiteboarding&amp;rdquo; interviews, you are usually given a difficult problem from computer science in which you have to produce a program that can take some input and efficiently produce some related output. Usually, to pass these interviews, you need to have a deep understanding of algorithms and data structures, including graph traversal algorithms, tree data structures (maybe even the dreaded red-black tree, which is known for being very complicated and hard to understand intuitively), and dynamic programming.</description>
+    </item>
     
     <item>
       <title>Hype</title>
