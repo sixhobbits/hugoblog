@@ -22,3 +22,4 @@ People who do well at whiteboarding are often similar in other ways too. They ar
 
 To really test someone, you need longer than a day to get to know them. The best interview would be bringing them into your existing team and to evaluate them over several weeks or months. It's not unusual for startups to do this -- they often employ someone on a fixed-term short contract first and then convert them to full time employees after they've proven themselves, but this is highly impractical for a majority of applicants, who might have full time jobs somewhere else, or need to relocate across the world to join the company that gives them a job.
 
+I'm interviewing later today to be a part time technical interviewer for [karat.io](karat.io) (it's a bit meta). They claim to solve some of these problems, but even after several years of academic computer science and several years of industry experience, I'm only about 40% sure that I can pass their technical interview.
