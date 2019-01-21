@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/guardian-vs-dale-carnegie/</loc>
+    <lastmod>2019-01-21T09:23:50+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/technical-interviews/</loc>
     <lastmod>2019-01-20T13:05:27+02:00</lastmod>
   </url>
@@ -49,13 +54,13 @@
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/</loc>
-    <lastmod>2019-01-20T13:05:27+02:00</lastmod>
+    <lastmod>2019-01-21T09:23:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/</loc>
-    <lastmod>2019-01-20T13:05:27+02:00</lastmod>
+    <lastmod>2019-01-21T09:23:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
