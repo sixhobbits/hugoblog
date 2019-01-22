@@ -22,6 +22,7 @@ Apparently it worked. I can't find a link now, but I read a review on their stra
 
 Could this be *because* the advice from *How to Win Friends and Influence People* is now so common place that people are tired of it? Perhaps readers are so used to business framing things as they think readers want to hear them, that this is something fresh and different? 
 
-They're still in business, but apparently [also cutting jobs and losing money](https://www.outlookindia.com/website/story/the-guardian-goes-tabloid-cuts-300-jobs-is-donor-driven-business-model-sustainab/307179), so I guess we'll have to wait and see how long-term the strategy can work.
+They're still in business, but apparently [also cutting jobs and losing money](https://www.outlookindia.com/website/story/the-guardian-goes-tabloid-cuts-300-jobs-is-donor-driven-business-model-sustainab/307179), so I guess we'll have to wait and see how good the strategy is on a longer term.
 
 It's good to keep in mind that while flying in the face of conventional wisdom is often a good strategy, if it's successful enough, it also becomes conventional wisdom itself. Similarly, many businesses become successful by being brave enough to try new things, but when they become large and successful, they are not longer flexible enough to try new things, and end up getting stuck. [The Innovator's Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) covers this in a lot more detail and is definitely worth a read, even if you're not that interested in the Disk Drive industry from a couple of decades ago.
+
