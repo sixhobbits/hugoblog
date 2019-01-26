@@ -4,8 +4,6 @@ date: 2019-01-26T17:20:00+02:00
 draft: false
 ---
 
-# 2018: Retrospective
-
 This is a (late) 2018 retrospective. It's mainly for personal use as I enjoy looking back and seeing how naive I was $n$ years ago, but I've enjoyed reading retrospectives from others in the tech community so I'm making it public without advertising it too widely. 
 
 ## The year of employment
