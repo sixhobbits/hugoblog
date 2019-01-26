@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/2018-retrospective/</loc>
+    <lastmod>2019-01-26T17:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/inconsistent-ethics-and-voting/</loc>
     <lastmod>2019-01-25T23:06:37+02:00</lastmod>
   </url>
@@ -74,13 +79,13 @@
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/</loc>
-    <lastmod>2019-01-25T23:06:37+02:00</lastmod>
+    <lastmod>2019-01-26T17:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/</loc>
-    <lastmod>2019-01-25T23:06:37+02:00</lastmod>
+    <lastmod>2019-01-26T17:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
