@@ -2,5 +2,6 @@ baseURL = "https://sixhobbits.github.io/hugoblog/"
 languageCode = "en-us"
 title = "Gareth Dwyer"
 theme = "hugo-paper"
+pygmentsCodeFences = true
 publishDir = "docs"
 
