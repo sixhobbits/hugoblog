@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/gaming-seo/</loc>
+    <lastmod>2019-04-06T15:13:48+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/give-advice/</loc>
     <lastmod>2019-03-31T21:37:59+02:00</lastmod>
   </url>
@@ -84,13 +89,13 @@
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/</loc>
-    <lastmod>2019-03-31T21:37:59+02:00</lastmod>
+    <lastmod>2019-04-06T15:13:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/</loc>
-    <lastmod>2019-03-31T21:37:59+02:00</lastmod>
+    <lastmod>2019-04-06T15:13:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
