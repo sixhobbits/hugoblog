@@ -6,10 +6,23 @@
     <description>Recent content in Posts on Gareth Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2019 15:13:48 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2019 10:51:54 +0200</lastBuildDate>
     
 	<atom:link href="https://sixhobbits.github.io/hugoblog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Measurements are not Goals</title>
+      <link>https://sixhobbits.github.io/hugoblog/posts/measurements-as-goals/</link>
+      <pubDate>Sun, 14 Apr 2019 10:51:54 +0200</pubDate>
+      
+      <guid>https://sixhobbits.github.io/hugoblog/posts/measurements-as-goals/</guid>
+      <description>When a measure becomes a target, it ceases to be a good measure
+&amp;gt; Charles Goodhart
+ Measuring stuff is generally useful. Data, in general, is useful too. If you&amp;rsquo;re trying to run a big complicated business, it&amp;rsquo;s definitely a good idea to look at data, see what works, what doesn&amp;rsquo;t, and make decisions accordingly.
+But.
+Measurements should never be goals. Ever. Maybe the number of lines of code your programmers are writing is in some way linked to their value as a programmer, but paying or promoting them based on LoC is an obviously terrible idea.</description>
+    </item>
     
     <item>
       <title>Gaming Seo</title>
