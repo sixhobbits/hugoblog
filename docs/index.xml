@@ -6,10 +6,22 @@
     <description>Recent content on Gareth Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Apr 2019 10:51:54 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 22:09:20 +0200</lastBuildDate>
     
 	<atom:link href="https://sixhobbits.github.io/hugoblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Solutions Without Problems</title>
+      <link>https://sixhobbits.github.io/hugoblog/posts/solutions-without-problems/</link>
+      <pubDate>Sat, 27 Jul 2019 22:09:20 +0200</pubDate>
+      
+      <guid>https://sixhobbits.github.io/hugoblog/posts/solutions-without-problems/</guid>
+      <description>Many people have problems without solution. This can be frustrating for those people.
+It&amp;rsquo;s more and more common for people to have solutions without problems, which can also be frustrating for those people, and for those around them.
+Especially in over-hyped spaces, such as big data, blockchain, deep learning, data science, and the internet of things, people look for problems that they can solve. This is almost always misguided.
+People who want to &amp;ldquo;do data science&amp;rdquo; usually don&amp;rsquo;t.</description>
+    </item>
     
     <item>
       <title>Measurements are not Goals</title>

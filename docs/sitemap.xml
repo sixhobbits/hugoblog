@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sixhobbits.github.io/hugoblog/</loc>
+    <lastmod>2019-07-27T22:09:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/</loc>
+    <lastmod>2019-07-27T22:09:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/solutions-without-problems/</loc>
+    <lastmod>2019-07-27T22:09:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/measurements-as-goals/</loc>
     <lastmod>2019-04-14T10:51:54+02:00</lastmod>
   </url>
@@ -89,18 +106,6 @@
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sixhobbits.github.io/hugoblog/</loc>
-    <lastmod>2019-04-14T10:51:54+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sixhobbits.github.io/hugoblog/posts/</loc>
-    <lastmod>2019-04-14T10:51:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
