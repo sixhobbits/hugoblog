@@ -4,7 +4,7 @@ date: 2019-07-28T08:50:37+02:00
 draft: false
 ---
 
-Sometimes, aiming at a goal is the best way to ensure that you hit that goal. At other times, the relationship is more subtle (for example, what you _think_ might be goal, could actualy [be a measurement](measurements-as-goals)).
+Sometimes, aiming at a goal is the best way to ensure that you hit that goal. At other times, the relationship is more subtle (for example, what you _think_ might be goal, could actualy [be a measurement](../measurements-as-goals)).
 
 In many cases, aiming at the goal, or at least what seems to be the goal, is surest way to _miss_ the goal. Take, for example, the fairly modern fad of "networking". The basic idea is that "networks" are valuable -- you don't know exactly which of your connections will help you in what way or at what time, but it is very common for _somone_ that you know to provide you with *value*. Therefore, the larger your "network" is, the more likely you are to be able to extract value from it -- exactly what value and exactly when is not possible to know, but you know that it will happen _at some point_, and that is valuable. 
 
