@@ -3,20 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sixhobbits.github.io/hugoblog/posts/bets/</loc>
-    <lastmod>2019-07-28T09:21:33+02:00</lastmod>
+    <loc>https://sixhobbits.github.io/hugoblog/</loc>
+    <lastmod>2019-08-13T08:05:17+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sixhobbits.github.io/hugoblog/</loc>
-    <lastmod>2019-07-28T09:21:33+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/overcoming-self-refuting-statements/</loc>
+    <lastmod>2019-08-13T08:05:17+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/</loc>
-    <lastmod>2019-07-28T09:21:33+02:00</lastmod>
+    <lastmod>2019-08-13T08:05:17+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/bets/</loc>
+    <lastmod>2019-07-28T09:21:33+02:00</lastmod>
   </url>
   
   <url>
