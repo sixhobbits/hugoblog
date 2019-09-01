@@ -4,19 +4,24 @@
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/</loc>
-    <lastmod>2019-08-13T08:05:17+02:00</lastmod>
+    <lastmod>2019-09-01T13:19:38+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/</loc>
+    <lastmod>2019-09-01T13:19:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/lucky-success-stories/</loc>
+    <lastmod>2019-09-01T13:19:38+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/overcoming-self-refuting-statements/</loc>
     <lastmod>2019-08-13T08:05:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sixhobbits.github.io/hugoblog/posts/</loc>
-    <lastmod>2019-08-13T08:05:17+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
