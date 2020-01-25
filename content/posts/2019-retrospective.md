@@ -1,4 +1,4 @@
----
+ --
 title: "2019 Retrospective"
 date: 2020-01-25T13:49:52+01:00
 draft: false
@@ -124,7 +124,7 @@ Some of my attempted drafts of a ‘pitch’ for this idea are at
 - https://ritza.co/content/pitch5
 - https://ritza.co/content/pitch4
 
-And even rougher material at https://github.com/sixhobbits/ritza**.**
+And even rougher material at https://github.com/sixhobbits/ritza
 
 My final public technical tutorials for 2019 was a proof of concept to see if this idea could potentially sustain itself. I decided that the ‘MVP’ of Ritza was to coordinate at least three people:
 
