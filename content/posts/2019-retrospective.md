@@ -69,7 +69,7 @@ My CodeMentor readership stats as of January 2020:
 
 
 
-Stats from my previous retrospective, January 2018, for comparison:
+Stats from my previous retrospective, January 2019, for comparison:
 
 
 
@@ -206,9 +206,9 @@ I continue to be inspired by the ‘maker’ crowd online. Although the bullshit
 
 - Pieter Levels https://levels.io/ who started NomadList and various other highly popular services single handedly. I finally bought a lifetime subscription while it was on special, and although the community isn’t as good as I was hoping (filled with people trying to make a quick buck, and run off a free slack channel where the lack of message history is frustrating), I have made one or two good connections through there, and it is a good place to meet people on short notice while travelling.
 
-- [AJ](https://themakingof.carrd.co/) from carrd.co -- another service that I have admired for many years and finally opened my wallet to this year. I used the premium version of Carrd to create https://flaskbyexample.com/ for my book, https://conceptconcerts.co.za/ for my sister’s classical music company, https://startyourown.co/ for a project I started at the beginning of the year but dropped, and a few others. 
+- [AJ](https://themakingof.carrd.co/) from carrd.co -- another service that I have admired for many years and finally opened my wallet to this year. I used the premium version of Carrd to create https://flaskbyexample.com/ for my book, https://conceptconcerts.co.za/ for my sister’s classical music company, https://startyourown.co/ for a project I started at the beginning of the year but dropped, and a few others.
 
-- Cory Zue (https://startyourown.co/) who I met in Cape Town and had some very good conversations with. I have been following his posts closely and his humbleness and openness along with the fact that he actually executing and not just talking continues to inspire.
+- Cory Zue (http://www.coryzue.com/) who I met in Cape Town and had some very good conversations with. I have been following his posts closely and his humbleness and openness along with the fact that he is actually executing and not just talking continues to inspire.
 
 I’m already a month behind because I have been on the road (well train tracks) since January the 1st and only got back home yesterday, but here’s to reading this in 11 months’ time and cringing slightly!
 
