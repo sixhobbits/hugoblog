@@ -30,7 +30,7 @@ I read less than I wanted to this year, but one or two highlights stuck out.
 
 ## Side projects, passive income, and education
 
-Last year, I focussed on writing [technical tutorials](http://dwyer.co.za/writing.html) by moonlight. I enjoy writing these as I get paid but the content I produce is made available for free, which seems like a win-win. This year, I continued writing for various clients under different models and also did technical interviewing for Karat for a few months. 
+In 2018, I focussed on writing [technical tutorials](http://dwyer.co.za/writing.html) by moonlight. I enjoy writing these as I get paid but the content I produce is made available for free, which seems like a win-win. Last year, I continued writing for various clients under different models and also did technical interviewing for Karat for a few months. 
 
 I find it strange to talk about money in public places, but at the same time I have benefited a lot from other people sharing data openly under the [Open Startups](https://hackernoon.com/what-does-it-mean-to-be-an-open-startup-f4446984189) ideology, so for anyone who is interested, here are some key numbers from 2019. 
 
