@@ -3,15 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/2019-retrospective/</loc>
+    <lastmod>2020-01-25T13:49:52+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sixhobbits.github.io/hugoblog/</loc>
-    <lastmod>2019-09-01T13:19:38+02:00</lastmod>
+    <lastmod>2020-01-25T13:49:52+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sixhobbits.github.io/hugoblog/posts/</loc>
-    <lastmod>2019-09-01T13:19:38+02:00</lastmod>
+    <lastmod>2020-01-25T13:49:52+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/process/</loc>
+    <lastmod>2019-09-26T06:28:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sixhobbits.github.io/hugoblog/posts/no-code/</loc>
+    <lastmod>2019-09-08T11:02:16+02:00</lastmod>
   </url>
   
   <url>

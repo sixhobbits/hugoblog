@@ -6,10 +6,40 @@
     <description>Recent content on Gareth Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 13:19:38 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 13:49:52 +0100</lastBuildDate>
     
 	<atom:link href="https://sixhobbits.github.io/hugoblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019 Retrospective</title>
+      <link>https://sixhobbits.github.io/hugoblog/posts/2019-retrospective/</link>
+      <pubDate>Sat, 25 Jan 2020 13:49:52 +0100</pubDate>
+      
+      <guid>https://sixhobbits.github.io/hugoblog/posts/2019-retrospective/</guid>
+      <description>People overestimate what can be done in one year and underestimate what can be done in ten.
+  Someone, probably  The quote above gets thrown around a lot in my circles, but I think it is useful in several ways. Most people are too concerned with short term value, too ambitious with their short term goals, and unwilling to stick at something for very long. This bias leads companies to focus too heavily on monthly or quarterly (or weekly!</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://sixhobbits.github.io/hugoblog/posts/process/</link>
+      <pubDate>Thu, 26 Sep 2019 06:28:17 +0200</pubDate>
+      
+      <guid>https://sixhobbits.github.io/hugoblog/posts/process/</guid>
+      <description>Process is designed to make systems more efficient, but it often slows them down. The real purpose of process is to make systems, and especially employees, more fungible.
+If you are lucky enough to work with a small group of intelligent people, dedicated to a single cause, process is probably hurting them more than helping them. You should remove it. Nearly all.</description>
+    </item>
+    
+    <item>
+      <title>No Code</title>
+      <link>https://sixhobbits.github.io/hugoblog/posts/no-code/</link>
+      <pubDate>Sun, 08 Sep 2019 11:02:16 +0200</pubDate>
+      
+      <guid>https://sixhobbits.github.io/hugoblog/posts/no-code/</guid>
+      <description>Pieter Levels, the guy behind NomadList and RemoteOK, and bunch of other interesting ideas wrote a short post earlier today about the future of building applications without code. It is at https://levels.io/no-code/.
+I agree with most of the ideas, including - It&amp;rsquo;s getting easier to build applications that can solve complex problems and generate value, without writing code - More companies will do this over time - We&amp;rsquo;re still far off from finding a more efficient way to build complicated applications than &amp;lsquo;manually&amp;rsquo; stiching if statement and while loops together.</description>
+    </item>
     
     <item>
       <title>Survivorship bias through annoying &#39;success stores&#39;</title>
