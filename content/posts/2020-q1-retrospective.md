@@ -12,7 +12,7 @@ A large part of my 2019 retrospective focused on Ritza: a concept I have been pl
 
 I also talked about some other stuff like visas and leaving South Africa, but I’ll focus on Ritza progress in this article.
 
-## Providing demand and finding a business model
+## Proving demand and finding a business model
 
 I spent a lot of time last year thinking about what Ritza was and how it would work. I focused a lot on the production or supply side. How would I find writers? What would my agreement with them look like? How would designers, editors, and technical quality assurance fit into this?
 
