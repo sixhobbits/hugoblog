@@ -24,7 +24,7 @@ In spite of still having “side project” status, I’m pretty pleased with ho
 
 For April 2020, I have $6000 in revenue booked (although I’m writing this on 10 April, it’s unlikely that this will change as I still need to write a lot of this booked content and wouldn’t accept more work at this stage).
 
-For compairosn, in the whole of 2019 I generated $8864 in revenue (this actually came from various sources, but for simplicity I’ll bucket it all under “Ritza”, aka “not my full time job”), and for January-March 2020 I generated $4500.
+For comparison, in the whole of 2019 I generated $8864 in revenue (this actually came from various sources, but for simplicity I’ll bucket it all under “Ritza”, aka “not my full time job”), and for January-March 2020 I generated $4500.
 
 More exciting than the amounts to me is finding my first client who fits (almost) perfectly into Ritza’s proposed model: a monthly subscription and public content. Ritza’s first “real” client agreed to a $3000/month fee (initially for 3 months) to produce around 4000 words of content a month - slightly lower than the rate I aim for, but I’m very happy to be flexible as I start off with this model.
 
