@@ -10,9 +10,7 @@ I did a [2020 Q1 retrospective](https://sixhobbits.github.io/hugoblog/posts/2020
 
 Ritza is still evolving at what feels like a slow pace. I launched [ritza.co](ritza.co) today (actually it has been live for a while, but it had a brain dump on the homepage which I rewrote today to have more structure and provide more relevant information). I shared it on ZATech, HackerNews, and the EUTech telegram group and got some good feedback (thank you if you were one of the people that provided this!), which I am integrating into the next iteration.
 
-I haven't set proper goals for May, but I have a to do list which includes improving the showcase, adding more "meta articles", i.e. articles produced under the Ritza model but for Ritza itself instead of a client, and hiring a writing assistant.
-
-I am also still in some contact with two "startup facilitators" -- organizations in the Netherlands which can endorse startups which I need for my visa.
+I am still in some contact with two "startup facilitators" -- organizations in the Netherlands which can endorse startups which I need for my visa.
 
 Other miscelaneous bits of progress include:
 * Trying to sign up for MailChimp again but realising I had already used the single "audience" for a test page I launched (startyourown.co) and then abandoned, so signing up for ConvertKit instead. Both are companies firmly in the marketing world that I consider at least slightly email (tracking, targeted advertising etc), but I do not want to sink the time needed into building my own mailing list system at this stag.
