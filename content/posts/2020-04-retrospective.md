@@ -1,10 +1,8 @@
 ---
-title: "2020 04 Retrospective"
+title: "April 2020 Retrospective"
 date: 2020-05-01T17:55:30+02:00
 draft: false
 ---
-
-# April 2020 Retrospective
 
 I did a [2020 Q1 retrospective](https://sixhobbits.github.io/hugoblog/posts/2020-q1-retrospective/) pretty late, so this is more focused on the 10-30 April period.
 
