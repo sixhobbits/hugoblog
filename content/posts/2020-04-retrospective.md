@@ -13,6 +13,7 @@ Ritza is still evolving at what feels like a slow pace. I launched [ritza.co](ri
 I am still in some contact with two "startup facilitators" -- organizations in the Netherlands which can endorse startups which I need for my visa. Unfortunately both are very slow to respond to my emails, so I keep assuming that they are no longer interested, only to get a reply once I have given up.
 
 Other miscelaneous bits of progress include:
+
 * Trying to sign up for MailChimp again but realising I had already used the single "audience" for a test page I launched (startyourown.co) and then abandoned, so signing up for ConvertKit instead. Both are companies firmly in the marketing world that I consider at least slightly email (tracking, targeted advertising etc), but I do not want to sink the time needed into building my own mailing list system at this stag.
 * Having the deck I mentioned in the previous post designed on fiverr - I wasn't super excited about the result but it's not terrible either and was good enough for what I needed it for. You can see it [here](https://docs.google.com/presentation/d/1uFljO1odpS9oyaTHY0uA4wO63WX_r_H6buEulXJzYPY/)
 * Telling various people about Ritza and getting feedback. I did a mini-pitch and discussion for Ritza to two informal meetup groups, both through ZATech, and got some positive feedback on the concept (yay!) and some advice.
@@ -32,11 +33,10 @@ I had already agreed to something significantly below my usual rate for a trial 
 
 ## Where next?
 
-I'm still trying to get the legal and tax side of everything set up. Progress is frustratingly slow. I also have a todo list which currently contains things such as
+I'm still trying to get the legal and tax side of everything set up. Progress is frustratingly slow. I also have a todo list which currently contains things such as:
+
 * Collecting the rest of my content from around the web to combine it into more "showcases"
 * Extending the homepage and additional pages to answer more questions people have (what kind of content do you produce?, why is it so expensive?, is this marketing?, why should I buy this? are some at the moment)
 * Adding an "/open" dashboard (I was going to link to the popular Baremetrics page here but then I discovered that they link to "Hubstaff" which provides malware to allow employers to spy on their employees so I won't)
 
 I don't expect things to change too much in the next 4 weeks while I am still spending a majority of my time at my full time job, but I hope to set more ambitious monthly goals from 1 June!
-
-
