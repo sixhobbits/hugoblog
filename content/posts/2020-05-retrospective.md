@@ -6,7 +6,7 @@ draft: false
 
 May 2020 was my last month trying to launch Ritza while being full-time employed. My last month (hopefully ever!) as a full time employee was fairly busy with handovers and whatnot and this impacted progress on Ritza, so I'm looking forward to being able to stop splitting focus (spoiler for next month's retro, the first week has been pretty great!).
 
-## Launching ritza.co the two kinds of feedback
+## Launching ritza.co: the two kinds of feedback
 
 I launched [ritza.co](https://ritza.co) in May. It's ... rough ... to say the least, and the initial feedback I got from family and friends was brutally honest. "I still don't get what it is?", "Why are there no pictures?", "Uh, maybe take a design course or something? Here's a coupon." etc etc. While Ritza aims to take a strong stance _against_ "marketing websites", "SEO strategies", "call to action buttons", and all of those other good things, I am not planning on the landing page looking like that forever. The copy is not great for a start, and it's undoubtedly ugly.
 
