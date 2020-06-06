@@ -1,256 +1,237 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  
-  <title>Posts - Gareth Dwyer</title>
-  
-  <meta name="description" content="">
-  <meta name="author" content="">
-  
-  <link href="https://sixhobbits.github.io/hugoblog/css/font.css" rel="stylesheet">
-  <link href="https://sixhobbits.github.io/hugoblog/css/atom-one-dark.min.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i" rel="stylesheet">
-  <link href="https://sixhobbits.github.io/hugoblog/css/style.css" rel="stylesheet">
-  
-  <link rel="apple-touch-icon" href="https://sixhobbits.github.io/hugoblog/img/apple-touch-icon.png">
-  <link rel="icon" href="https://sixhobbits.github.io/hugoblog/img/favicon.ico">
-  
-  <meta name="generator" content="Hugo 0.56.0" />
-  
-  <link rel="alternate" type="application/atom+xml" href="https://sixhobbits.github.io/hugoblog/index.xml" title="Gareth Dwyer">
-  
-</head>
-<body class="list">
-  <header class="header">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-    <p class="title"><a href="https://sixhobbits.github.io/hugoblog/">Gareth Dwyer</a></p>
+    <title>Posts - Gareth Dwyer</title>
     
-    <button class="menu-toggle" type="button"></button>
-    <nav class="menu">
-      <ul>
-        
-        
-      </ul>
-    </nav>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <link href="https://sixhobbits.github.io/hugoblog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sixhobbits.github.io/hugoblog/style.css" rel="stylesheet">
+    <link href="https://sixhobbits.github.io/hugoblog/custom.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sixhobbits.github.io/hugoblog/apple-touch-icon.png">
+    <link rel="icon" href="https://sixhobbits.github.io/hugoblog/favicon.ico">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    <link rel="alternate" type="application/rss+xml" href="https://sixhobbits.github.io/hugoblog/posts/index.xml" title="Gareth Dwyer" />
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="list">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="https://sixhobbits.github.io/hugoblog/">Gareth Dwyer</a></p>
+      </nav>
+    </header>
+    <main class="main">
+
+<header class="page-header"><h1>Posts</h1></header>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Solutions Without Problems</h2>
   </header>
-  <main class="main">
-
-
-<header class="list-header">
-  <h1 class="list-title">Posts</h1>
-  
-</header>
-
-
-
-
-
-
-
-<article class="post post-entry">
-  <header class="post-header">
-    
-    <h2 class="post-title">Solutions Without Problems</h2>
-  </header>
-  <p class="post-summary">Many people have problems without solution. This can be frustrating for those people.
+  <section class="entry-content">
+   <p>Many people have problems without solution. This can be frustrating for those people.
 It’s more and more common for people to have solutions without problems, which can also be frustrating for those people, and for those around them.
 Especially in over-hyped spaces, such as big data, blockchain, deep learning, data science, and the internet of things, people look for problems that they can solve. This is almost always misguided.
 People who want to “do data science” usually don’t....</p>
-  <footer class="post-footer">
-    <p class="post-meta">2019.7.27</p>
+  </section>
+  <footer class="entry-footer">
+    <time>July 27, 2019</time>
   </footer>
-  <a class="post-link" href="https://sixhobbits.github.io/hugoblog/posts/solutions-without-problems/"></a>
+  <a class="entry-link" href="https://sixhobbits.github.io/hugoblog/posts/solutions-without-problems/"></a>
 </article>
-
-
-
-
-<article class="post post-entry">
-  <header class="post-header">
-    
-    <h2 class="post-title">Measurements are not Goals</h2>
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Measurements are not Goals</h2>
   </header>
-  <p class="post-summary">When a measure becomes a target, it ceases to be a good measure
+  <section class="entry-content">
+   <p>When a measure becomes a target, it ceases to be a good measure
 &gt; Charles Goodhart
  Measuring stuff is generally useful. Data, in general, is useful too. If you’re trying to run a big complicated business, it’s definitely a good idea to look at data, see what works, what doesn’t, and make decisions accordingly.
 But.
 Measurements should never be goals. Ever. Maybe the number of lines of code your programmers are writing is in some way linked to their value as a programmer, but paying or promoting them based on LoC is an obviously terrible idea....</p>
-  <footer class="post-footer">
-    <p class="post-meta">2019.4.14</p>
+  </section>
+  <footer class="entry-footer">
+    <time>April 14, 2019</time>
   </footer>
-  <a class="post-link" href="https://sixhobbits.github.io/hugoblog/posts/measurements-as-goals/"></a>
+  <a class="entry-link" href="https://sixhobbits.github.io/hugoblog/posts/measurements-as-goals/"></a>
 </article>
-
-
-
-
-<article class="post post-entry">
-  <header class="post-header">
-    
-    <h2 class="post-title">Gaming Seo</h2>
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Gaming Seo</h2>
   </header>
-  <p class="post-summary">There is no shortage of people, agencies, books, and videos out there that will teach you how to game Google’s algorithms and get your content onto page one. You’ll learn how to “rank for specific keywords”, “optimise your content strategy”, “increase your domain authority”, and “get 5000% returns, GUARANTEED from this AMAZING course FREE FOR TODAY ONLY!!!”.
+  <section class="entry-content">
+   <p>There is no shortage of people, agencies, books, and videos out there that will teach you how to game Google’s algorithms and get your content onto page one. You’ll learn how to “rank for specific keywords”, “optimise your content strategy”, “increase your domain authority”, and “get 5000% returns, GUARANTEED from this AMAZING course FREE FOR TODAY ONLY!!!”.
 Search Engine Optimisation or SEO isn’t all bullshit, but the ratio of bullshit to reasonable ideas is around 9:1 in my experience....</p>
-  <footer class="post-footer">
-    <p class="post-meta">2019.4.6</p>
+  </section>
+  <footer class="entry-footer">
+    <time>April 6, 2019</time>
   </footer>
-  <a class="post-link" href="https://sixhobbits.github.io/hugoblog/posts/gaming-seo/"></a>
+  <a class="entry-link" href="https://sixhobbits.github.io/hugoblog/posts/gaming-seo/"></a>
 </article>
-
-
-
-
-<article class="post post-entry">
-  <header class="post-header">
-    
-    <h2 class="post-title">Give Advice</h2>
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Give Advice</h2>
   </header>
-  <p class="post-summary">Don’t be afraid to give advice to strangers online.
+  <section class="entry-content">
+   <p>Don’t be afraid to give advice to strangers online.
 To (probably) misquote Douglas Adams:
  Asking people about their opinions is a great way of making friends. Telling people about your opinions can also work, but normally not quite as well.
  And he definitely wasn’t wrong. Similar to opinions, asking people for advice is a good way of making friends too. Giving people unrequested advice is a good way to annoy them....</p>
-  <footer class="post-footer">
-    <p class="post-meta">2019.3.31</p>
+  </section>
+  <footer class="entry-footer">
+    <time>March 31, 2019</time>
   </footer>
-  <a class="post-link" href="https://sixhobbits.github.io/hugoblog/posts/give-advice/"></a>
+  <a class="entry-link" href="https://sixhobbits.github.io/hugoblog/posts/give-advice/"></a>
 </article>
-
-
-
-
-<article class="post post-entry">
-  <header class="post-header">
-    
-    <h2 class="post-title">2018 Retrospective</h2>
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>2018 Retrospective</h2>
   </header>
-  <p class="post-summary">This is a (late) 2018 retrospective. It’s mainly for personal use as I enjoy looking back and seeing how naive I was $n$ years ago, but I’ve enjoyed reading retrospectives from others in the tech community so I’m making it public without advertising it too widely.
+  <section class="entry-content">
+   <p>This is a (late) 2018 retrospective. It’s mainly for personal use as I enjoy looking back and seeing how naive I was $n$ years ago, but I’ve enjoyed reading retrospectives from others in the tech community so I’m making it public without advertising it too widely.
 The year of employment I took up full time employment at CoGrammar (formerly HyperionDev, a product we still run) in November 2017. As I’m still here, 2018 marks my first year ever of uninterrupted full time employment (I previously did two relatively long periods at AWS, but these were interleved between academic commitments)....</p>
-  <footer class="post-footer">
-    <p class="post-meta">2019.1.26</p>
+  </section>
+  <footer class="entry-footer">
+    <time>January 26, 2019</time>
   </footer>
-  <a class="post-link" href="https://sixhobbits.github.io/hugoblog/posts/2018-retrospective/"></a>
+  <a class="entry-link" href="https://sixhobbits.github.io/hugoblog/posts/2018-retrospective/"></a>
 </article>
-
-
-
-
-<article class="post post-entry">
-  <header class="post-header">
-    
-    <h2 class="post-title">Inconsistent Ethics and Voting</h2>
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Inconsistent Ethics and Voting</h2>
   </header>
-  <p class="post-summary">Utilitarianism is an ethical framework that many people partially rely on. It’s the simplest form of ethics: if you want to know if some action is moral or not, just have a look at the result of that action, and then decide.
+  <section class="entry-content">
+   <p>Utilitarianism is an ethical framework that many people partially rely on. It’s the simplest form of ethics: if you want to know if some action is moral or not, just have a look at the result of that action, and then decide.
 Should you give food to a starving person? Sure, it will result in the starving person not being hungry, which is a moral result, so therefore the charity is a moral action....</p>
-  <footer class="post-footer">
-    <p class="post-meta">2019.1.25</p>
+  </section>
+  <footer class="entry-footer">
+    <time>January 25, 2019</time>
   </footer>
-  <a class="post-link" href="https://sixhobbits.github.io/hugoblog/posts/inconsistent-ethics-and-voting/"></a>
+  <a class="entry-link" href="https://sixhobbits.github.io/hugoblog/posts/inconsistent-ethics-and-voting/"></a>
 </article>
-
-
-
-
-<article class="post post-entry">
-  <header class="post-header">
-    
-    <h2 class="post-title">Incentives and Trust</h2>
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Incentives and Trust</h2>
   </header>
-  <p class="post-summary">Incentives seem very well understood. We have a whole bunch of natural sounding ideas, such as
+  <section class="entry-content">
+   <p>Incentives seem very well understood. We have a whole bunch of natural sounding ideas, such as
  If you reward a person for a specific behaviour, you’ll encourage more of that behaviour. If you punish someone for a specific behaviour, you’ll encourage less of that behaviour. If you need someone to do something that they don’t want to do, you need to monitor them to make sure that they actually do it....</p>
-  <footer class="post-footer">
-    <p class="post-meta">2019.1.24</p>
+  </section>
+  <footer class="entry-footer">
+    <time>January 24, 2019</time>
   </footer>
-  <a class="post-link" href="https://sixhobbits.github.io/hugoblog/posts/incentives-and-trust/"></a>
+  <a class="entry-link" href="https://sixhobbits.github.io/hugoblog/posts/incentives-and-trust/"></a>
 </article>
-
-
-
-
-<article class="post post-entry">
-  <header class="post-header">
-    
-    <h2 class="post-title">Salary</h2>
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Salary</h2>
   </header>
-  <p class="post-summary">Salaries After the big #TalkPay movement a couple of years ago, and the related discussion that came up as a result, I thought people were more aware of the imbalance between employer and employee when it comes to salary negotiation. But I still see a lot of people who are very happy to answer this question straight up. You shouldn’t. Never name the first number in a salary negotiation, and never give up any information about your previous salaries either....</p>
-  <footer class="post-footer">
-    <p class="post-meta">2019.1.23</p>
+  <section class="entry-content">
+   <p>Salaries After the big #TalkPay movement a couple of years ago, and the related discussion that came up as a result, I thought people were more aware of the imbalance between employer and employee when it comes to salary negotiation. But I still see a lot of people who are very happy to answer this question straight up. You shouldn’t. Never name the first number in a salary negotiation, and never give up any information about your previous salaries either....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>January 23, 2019</time>
   </footer>
-  <a class="post-link" href="https://sixhobbits.github.io/hugoblog/posts/salary/"></a>
+  <a class="entry-link" href="https://sixhobbits.github.io/hugoblog/posts/salary/"></a>
 </article>
-
-
-
-
-<article class="post post-entry">
-  <header class="post-header">
-    
-    <h2 class="post-title">Boredom</h2>
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Boredom</h2>
   </header>
-  <p class="post-summary">People are afraid of boredom. They actively avoid having any time that is unscheduled. If they do find a brief moment of unscheduled time, they quickly focus on finding something to do (reading Twitter in the checkout queue).
+  <section class="entry-content">
+   <p>People are afraid of boredom. They actively avoid having any time that is unscheduled. If they do find a brief moment of unscheduled time, they quickly focus on finding something to do (reading Twitter in the checkout queue).
 Boredom isn’t really a negative emotion. It’s not like fear or dread or hate or pain. And even busy-bodies like it for brief moments, as long as you call it “relaxation”.
 You get home from whatever chaotic thing seemed important at the time, and just do nothing for a while....</p>
-  <footer class="post-footer">
-    <p class="post-meta">2019.1.22</p>
+  </section>
+  <footer class="entry-footer">
+    <time>January 22, 2019</time>
   </footer>
-  <a class="post-link" href="https://sixhobbits.github.io/hugoblog/posts/boredom/"></a>
+  <a class="entry-link" href="https://sixhobbits.github.io/hugoblog/posts/boredom/"></a>
 </article>
-
-
-
-
-<article class="post post-entry">
-  <header class="post-header">
-    
-    <h2 class="post-title">Guardian vs Dale Carnegie</h2>
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Guardian vs Dale Carnegie</h2>
   </header>
-  <p class="post-summary">The Guardian released a new donation campaign ages ago. The messages at the bottom of each article always look something like this.
+  <section class="entry-content">
+   <p>The Guardian released a new donation campaign ages ago. The messages at the bottom of each article always look something like this.
+![image-20190121092446395](/Users/g/Library/Application Support/typora-user-images/image-20190121092446395.png)
 (their highlight).
 If you’ve read any Dale Carnegie or other pop-psychology of a “self help” kind of nature, the first advice you usually hear about getting other people to do things for you. These people will tell you to make sure you focus not on yourself but on the other person....</p>
-  <footer class="post-footer">
-    <p class="post-meta">2019.1.21</p>
+  </section>
+  <footer class="entry-footer">
+    <time>January 21, 2019</time>
   </footer>
-  <a class="post-link" href="https://sixhobbits.github.io/hugoblog/posts/guardian-vs-dale-carnegie/"></a>
+  <a class="entry-link" href="https://sixhobbits.github.io/hugoblog/posts/guardian-vs-dale-carnegie/"></a>
 </article>
-
-
-
-<footer class="list-footer">
+<footer class="page-footer">
   <nav class="pagination">
-    
-    <a class="pagination-prev" href="/hugoblog/posts/">← Prev Page</a>
-    
-    
-    <a class="pagination-next" href="/hugoblog/posts/page/3/">Next Page →</a>
-    
+    <a class="prev" href="/hugoblog/posts/">← Prev Page</a>
+    <a class="next" href="/hugoblog/posts/page/3/">Next Page →</a>
   </nav>
-</footer>
-
-</main>
+</footer></main>
 <footer class="footer">
-  <span>&copy; 2020 Gareth Dwyer</span>
+  <span>&copy; 2020 <a href="https://sixhobbits.github.io/hugoblog/">Gareth Dwyer</a></span>
   <span>&middot;</span>
   <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
   <span>&middot;</span>
-  <span>Designed by <a href="http://21beats.com/" rel="noopener" target="_blank">️21beats️</a>️</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
 </footer>
-<script src="https://sixhobbits.github.io/hugoblog/js/instantclick.min.js" data-no-instant></script>
-<script data-no-instant>InstantClick.init();</script>
-<script src="https://sixhobbits.github.io/hugoblog/js/highlight.min.js" data-no-instant></script>
-<script data-no-instant>
-  addMenuListener();
-  InstantClick.on('change', function() {
-    addMenuListener();
-  });
-  function addMenuListener() {
-    var $toggle = document.querySelector('.menu-toggle');
-    var $body = document.querySelector('body');
-    $toggle.addEventListener('click', function() {
-      $body.classList.toggle('noscroll');
-    }, false);
-  }
+<script src="https://sixhobbits.github.io/hugoblog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
 </script>
 </body>
 </html>

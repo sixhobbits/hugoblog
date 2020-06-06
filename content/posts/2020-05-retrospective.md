@@ -45,7 +45,7 @@ I'm now working on another SaaS-like tool too. This analyses landing page copy a
 June is going by fast already. By the end of June I hope to have 
 
 * Signed at least one more client
-* Launched one more SaaS-like service (probably for free, but something that has the potential to grow into something I could start searching for), probably based around landing page copy
+* Launched one more SaaS-like service (probably for free, but something that has the potential to grow into something I could start charging for), probably based around landing page copy
 * Signed a contract with a Dutch Startup Facilitator to help secure a visa.
 
 
