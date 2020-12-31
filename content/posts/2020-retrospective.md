@@ -13,7 +13,7 @@ For more background, you can find previous retrospectives for
 and [<u>May
 2020</u>](https://sixhobbits.github.io/hugoblog/posts/2020-05-retrospective/).
 
-In July, I founded Ritza - a technical publishing company that offers
+In July, I founded [Ritza](https://ritza.co) - a technical publishing company that offers
 (very) technical content marketing, developer advocacy as a service, and
 a bunch of related publishing services. What does that mean exactly? We
 publish ebooks, documentation, and blog articles, usually with the goal
