@@ -20,7 +20,7 @@ publish ebooks, documentation, and blog articles, usually with the goal
 of helping developers or technical managers in some way. For example, we
 did [<u>https://codewithrepl.it</u>](https://codewithrepl.it) as a
 companion website for [<u>Repl.it</u>](https://repl.it/). We offer this
-content on a subscription basis
+content on a subscription basis.
 
 The title is clickbait: I’ve been working on Ritza for quite a bit
 longer than 6 months, but it only became ‘real’ in July this year as a
