@@ -189,7 +189,7 @@ I want to avoid being pulled in that direction or associated with
 content like that.
 
 My initial response to this was to try to move towards “Developer
-Advocacy as a Service”, but it doesn’t really role off the tongue, and
+Advocacy as a Service”, but it doesn’t really roll off the tongue, and
 I’m not sure that “Developer Advocacy” is actually a job that will
 survive the Tech Bubble I’m convinced we’re in.
 
