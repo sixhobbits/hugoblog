@@ -6,10 +6,207 @@
     <description>Gareth Dwyer (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2020 12:41:35 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 31 Dec 2020 12:52:16 +0200</lastBuildDate>
     
     <atom:link href="https://sixhobbits.github.io/hugoblog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zero to $50000 in six months: growing Ritza, a technical publishing company, as a productized service</title>
+      <link>https://sixhobbits.github.io/hugoblog/posts/2020-retrospective/</link>
+      <pubDate>Thu, 31 Dec 2020 12:52:16 +0200</pubDate>
+      
+      <guid>https://sixhobbits.github.io/hugoblog/posts/2020-retrospective/</guid>
+      <description>&lt;p&gt;For more background, you can find previous retrospectives for
+&lt;a href=&#34;https://sixhobbits.github.io/hugoblog/posts/2019-retrospective/&#34;&gt;&lt;!-- raw HTML omitted --&gt;2019&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;,
+&lt;a href=&#34;https://sixhobbits.github.io/hugoblog/posts/2020-q1-retrospective/&#34;&gt;&lt;!-- raw HTML omitted --&gt;Q1
+2020&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;,
+&lt;a href=&#34;https://sixhobbits.github.io/hugoblog/posts/2020-04-retrospective/&#34;&gt;&lt;!-- raw HTML omitted --&gt;April
+2020&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;,
+and &lt;a href=&#34;https://sixhobbits.github.io/hugoblog/posts/2020-05-retrospective/&#34;&gt;&lt;!-- raw HTML omitted --&gt;May
+2020&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In July, I founded Ritza - a technical publishing company that offers
+(very) technical content marketing, developer advocacy as a service, and
+a bunch of related publishing services. What does that mean exactly? We
+publish ebooks, documentation, and blog articles, usually with the goal
+of helping developers or technical managers in some way. For example, we
+did &lt;a href=&#34;https://codewithrepl.it&#34;&gt;&lt;!-- raw HTML omitted --&gt;https://codewithrepl.it&lt;!-- raw HTML omitted --&gt;&lt;/a&gt; as a
+companion website for &lt;a href=&#34;https://repl.it/&#34;&gt;&lt;!-- raw HTML omitted --&gt;Repl.it&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;. We offer this
+content on a subscription basis&lt;/p&gt;
+&lt;p&gt;The title is clickbait: I’ve been working on Ritza for quite a bit
+longer than 6 months, but it only became ‘real’ in July this year as a
+registered business which I was devoting 100% of my time to, and &amp;ndash; from
+what I’ve seen in Maker circles &amp;ndash; writing about how you got your
+initial revenue is the best way to 2x your revenue, so the title is also
+an experiment in some ways.&lt;/p&gt;
+&lt;p&gt;I’ve gained a lot by reading about
+&lt;a href=&#34;https://www.coryzue.com/open/&#34;&gt;&lt;!-- raw HTML omitted --&gt;other&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/SahinKevin/status/1334142235051520000&#34;&gt;&lt;!-- raw HTML omitted --&gt;people’s&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;
+&lt;a href=&#34;https://themakingof.carrd.co&#34;&gt;&lt;!-- raw HTML omitted --&gt;transparent&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;
+&lt;a href=&#34;https://nomadlist.com/open&#34;&gt;&lt;!-- raw HTML omitted --&gt;revenues&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;. That said, talking about
+money is still weird for me, and I think it’s harder to be fully
+transparent when offering services instead of a SaaS - there is more
+customized pricing both in charging for work and paying contractors and
+talking money is a sure way to get emotions up and make people feel like
+they got a bad deal.&lt;/p&gt;
+&lt;p&gt;Here are some high level figures for the last 6 months to get it out of
+the way.&lt;/p&gt;
+&lt;h2 id=&#34;revenue&#34;&gt;Revenue&lt;/h2&gt;
+&lt;p&gt;Ritza made between $6000 and $14000 revenue each month between July and
+December, with a total revenue of around $58000 for the last two
+quarters of 2020.&lt;/p&gt;
+&lt;p&gt;This was below my target of hitting $20000/month in 2020, but &amp;ndash;
+especially given circumstances &amp;ndash; this was way better than my worst case
+predictions. There was no clear overall trend, but a definite drop off
+in November and December, with July and October being our best
+performing months.&lt;/p&gt;
+&lt;p&gt;All of our contracts are month-to-month and one client went quiet in
+October. While most of our revenue comes from recurring contracts, we
+also did some one-off work in July through October, but none in November
+or December.&lt;/p&gt;
+&lt;p&gt;Nearly all of our costs are from paying writers, editors, and designers.
+We additionally spent money on office space that we don’t use (over
+$500/month for coworking space that is tied to my ‘visa facilitation’,
+which is a requirement for my visa in the Netherlands, and accounting
+costs. We pay a few dollars a month for various online services, such as
+GSuite and various domains, and we have credits on DigitalOcean and AWS
+which take care of all of our hosting for now. We also recently picked
+up a subscription to &lt;a href=&#34;https://www.semrush.com/&#34;&gt;&lt;!-- raw HTML omitted --&gt;SemRush&lt;!-- raw HTML omitted --&gt;&lt;/a&gt; - a tool
+that I think is overpriced and slightly shady, but which has proven its use
+in better understanding what people are searching for.&lt;/p&gt;
+&lt;p&gt;Overall, this revenue allows me to pay myself a ‘salary’ that pays rent
+in Europe, with more cash than my previous job as Head of Technology for
+a South African EdTech startup.&lt;/p&gt;
+&lt;p&gt;That said, my plan B after quitting my previous role was to find a full
+time job remotely or in Europe. I shopped around a bit and did some
+interviews for roles that were offering $150k-$200k/year + benefits so
+in terms of opportunity cost I am still ‘losing’ for now and it remains
+to be seen how far Ritza can scale with its current business model.&lt;/p&gt;
+&lt;h2 id=&#34;experiments-and-content&#34;&gt;Experiments and content&lt;/h2&gt;
+&lt;p&gt;Our bread-and-butter service is producing technical content: writing
+&lt;a href=&#34;https://codewithrepl.it&#34;&gt;&lt;!-- raw HTML omitted --&gt;tutorials&lt;!-- raw HTML omitted --&gt;&lt;/a&gt; and
+&lt;a href=&#34;https://datarevenue.com/en-blog&#34;&gt;&lt;!-- raw HTML omitted --&gt;blog&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;
+&lt;a href=&#34;https://virtasant.com/blog/data-lake-vs-data-warehouse/&#34;&gt;&lt;!-- raw HTML omitted --&gt;content&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;.
+While our mission is to unlock marketing budgets “for good” by making
+this content available for free, we have also helped companies produce
+and improve internal proprietary content that they then sell.&lt;/p&gt;
+&lt;p&gt;On the side, I have been playing around with the idea of building online
+tools to help with producing and publishing content. None of these got
+the attention they needed to get off the ground, but they remain on the
+back burner as ideas I’d still like to work on. They included&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://vsgraphs.ritza.co/&#34;&gt;&lt;!-- raw HTML omitted --&gt;‘vs’ Graphs&lt;!-- raw HTML omitted --&gt;&lt;/a&gt; -&lt;/strong&gt; a tool
+inspired by &lt;a href=&#34;https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f&#34;&gt;&lt;!-- raw HTML omitted --&gt;this
+article&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;.
+I built this because I needed it - especially for writing articles
+about ‘hot’ spaces like MLOps and DevOps, it’s easy to get
+overwhelmed by the sheer number of tools, products, and services.
+This visualisation makes it easy to explore a new area and find
+the most popular products, as well as to find out how a specific
+product ‘fits in’ (“Oh X plays in the same space as SageMaker”).
+This is also useful to write ‘&lt;a href=&#34;https://datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila&#34;&gt;&lt;!-- raw HTML omitted --&gt;x vs y vs
+z&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;’
+articles, which turn out to be very low hanging fruit in terms of
+ranking well on Google. If you’ve ever tried to find out how two
+products or services compare and found yourself frustrated at all
+the low quality ‘alternativeTo-like’ pages you’ll know why these
+articles are useful, and I ended up also building a &lt;a href=&#34;http://versus.ritza.co&#34;&gt;&lt;!-- raw HTML omitted --&gt;related
+tool&lt;!-- raw HTML omitted --&gt;&lt;/a&gt; to outline these articles
+automatically. The fun part about this was that I built it in a
+single train ride using only my iPad and repl.it, which felt like
+a big step in the direction of being able to code as a nomad.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://ratemycopy.ritza.co/&#34;&gt;&lt;!-- raw HTML omitted --&gt;Rate my Copy&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/strong&gt; - Also while
+researching products and services, I got annoyed at how cliched
+most landing page copy is, and even more annoyed by how
+uninformative it is. I scraped over 20000 landing pages for online
+products and services and built a database of the most commonly
+used cliches.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://ritza.co/experiments/opinionated-tutorial-publisher.html&#34;&gt;&lt;!-- raw HTML omitted --&gt;Opinionated tutorial
+Publisher&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/strong&gt; -
+while most of our clients have their own systems already in place
+to host the content we produce, I was frustrated at how hard it
+was to generate a lightweight, good looking page with writing,
+code samples, and images. There’s a long way to go on the design
+still, but some of the other pieces are in place.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I won’t link to all the content we produced in 2020, but some highlights
+are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.codewithrepl.it/&#34;&gt;&lt;!-- raw HTML omitted --&gt;CodeWithRepl.it&lt;!-- raw HTML omitted --&gt;&lt;/a&gt; -&lt;/strong&gt; a set
+of tutorials, also in book form. This was very well received on
+reddit and continues to rank well for a variety of search terms. I
+am strongly against most kinds of tracking, but caved at the end
+of the year and installed Plausible Analytics on it, which also
+makes it easy to share publicly everything we track:
+&lt;a href=&#34;https://plausible.io/codewithrepl.it&#34;&gt;&lt;!-- raw HTML omitted --&gt;https://plausible.io/codewithrepl.it&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;.
+Traffic has died off a lot at the end of the year (based on some
+server logs analytics I did), but rankings continue to improve and
+I think the content is in pretty good shape now (we’ve done
+several sets of updates since initially publishing it).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://datarevenue.com/en-blog&#34;&gt;&lt;!-- raw HTML omitted --&gt;DataRevenue Blog&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/strong&gt; -
+This is the project I’ve personally learned the most from this
+year, writing about everything from general machine learning
+through BioTech (I didn’t even know what Metabolomics was in 2019,
+so there was a steep learning curve to write some of the articles
+about that).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;growing-a-team&#34;&gt;Growing a team&lt;/h2&gt;
+&lt;p&gt;While we initially mainly worked ad-hoc with contractors on various
+projects, towards the end of the year Ritza started feeling like a real
+company with a core team. &lt;a href=&#34;https://dev.to/eugenedorfling/technical-writing-internship-it-can-only-get-better-from-here-10ma&#34;&gt;&lt;!-- raw HTML omitted --&gt;Eugene
+Dorfling&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;
+joined in October for a full time internship and is continuing in 2021
+as an Associate Developer Advocate. Several other freelancers have
+regularly worked on projects throughout the year. I’m still trying to
+figure out if the next full time hire should be a senior writer (to take
+over some of the writing I am doing), or a managing editor (to help out
+with client feedback and all the nitty-gritty but super important
+aspects of getting from ‘first draft’ to ‘production’), but I’m leaning
+more towards the latter.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-ritza&#34;&gt;What IS Ritza?&lt;/h2&gt;
+&lt;p&gt;Friends and family still don’t really understand what Ritza is. I get a
+lot of “uh, so you make IT manuals, right? Isn’t that just telling
+people to turn stuff off and on again until it works?”&lt;/p&gt;
+&lt;p&gt;Ritza is probably closest to a ‘content marketing agency’ at this stage.
+But I really dislike most content marketing agencies. Not to name and
+shame, but there’s definitely decent demand for very low cost content
+such as
+&lt;a href=&#34;https://contentfly.com/blog/tag/content-sample/&#34;&gt;&lt;!-- raw HTML omitted --&gt;https://contentfly.com/blog/tag/content-sample/&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;,
+and I honestly can’t see how that adds any value to the world at all, so
+I want to avoid being pulled in that direction or associated with
+content like that.&lt;/p&gt;
+&lt;p&gt;My initial response to this was to try to move towards “Developer
+Advocacy as a Service”, but it doesn’t really role off the tongue, and
+I’m not sure that “Developer Advocacy” is actually a job that will
+survive the Tech Bubble I’m convinced we’re in.&lt;/p&gt;
+&lt;p&gt;Towards the end of the year, it became clear that Ritza is simply a
+publishing company (or at least the very beginnings of one). We are
+slowly becoming experts in the entire publishing pipeline, from sourcing
+high quality writing, through editing, designing, publishing, and
+distributing. While we have started out with a strong focus on technical
+content, there’s no reason that that has to remain a core focus forever.
+I’ve had pretty mediocre experiences with technical publishing companies
+like PacktPub and I believe non-tech publishers that have existed for
+decades or centuries are even more in need of a bit of modernization.&lt;/p&gt;
+&lt;p&gt;I previously helped my Dad publish his first book of (hilarious)
+&lt;a href=&#34;http://leanpub.com/doctor&#34;&gt;&lt;!-- raw HTML omitted --&gt;memoirs as a Doctor in Africa&lt;!-- raw HTML omitted --&gt;&lt;/a&gt; and
+during the slower period between Christmas and New Year now I spent some
+time tweaking the landing page, making a sample available, and doing
+some marketing. So far, all I’ve done is burn $50 on Reddit ads that led
+to zero sales, but I think with some experimentation with different
+distribution channels there’s more potential. Stay tuned.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2020 05 Retrospective</title>
