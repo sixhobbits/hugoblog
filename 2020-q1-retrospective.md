@@ -52,7 +52,7 @@ I’m not especially proud of either of these pieces. There are no shortage of s
 ### DataRevenue
 I found DataRevenue via a service called “The Writer Finder”. This is a writer matching service where clients describe the content they’re looking for and The Growth Machine (the company behind The Writer Finder) puts out a description to their “network” of writers, playing matchmaker. I signed up ages ago out of curiosity, but I’ve never used them before as all of the requests are usually for non-technical content.
 
-I worked with DataRevenue to produce thi article [How to fight COVID-19 with machine learning](https://www.datarevenue.com/en-blog/machine-learning-covid-19) (I was one of several people working on it), and we were happy when it reached the top spot of Google for “Machine Learning covid-19” very shortly after publication.
+I worked with DataRevenue to produce this article [How to fight COVID-19 with machine learning](https://www.datarevenue.com/en-blog/machine-learning-covid-19) (I was one of several people working on it), and we were happy when it reached the top spot of Google for “Machine Learning covid-19” very shortly after publication.
 
 ### Misc
 I also worked with a long-standing client to produce data science tutorials, especially on SQL and NLP. My work here is non-public and involves both writing new tutorials and editing existing ones.

@@ -33,7 +33,7 @@ One of the earliest pieces of advice I got when starting Ritza was ‘Make sure 
 
 We were lucky to find an experienced editor with a background in publishing who had experience with machine learning content too. She joined us for the last week of January and is continuing part time in February. 
 
-We also agreed to retainers with several more freelancers, and have several more in the pipeline, notably a front-end expert (which is where my own knowledge is most clearly in the ‘enough to be dangerous’ territory).
+We also agreed to retainers with several more freelancers, notably a front-end expert (which is where my own knowledge is most clearly in the ‘enough to be dangerous’ territory), and we have several more in the pipeline.
 
 ## No new clients
 
