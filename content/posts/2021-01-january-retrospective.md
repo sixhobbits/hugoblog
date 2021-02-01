@@ -43,6 +43,6 @@ We also had costs in January that were significantly higher than previous months
 
 ## January content highlights
 
-* We did the groundwork for “Go Hack Yourself a Portfolio” - an event we are running next week where devs can get together and work on their portfolios with some guidance and help from us and our tutorial on the same topic.
-* We published a tutorial on Steganography that made the front page of news.ycombinator.com for a few hours.
+* We did the groundwork for “[Go Hack Yourself a Portfolio](https://www.meetup.com/fedsa-community/events/275838885/)” - an event we are running next week where devs can get together and work on their portfolios with some guidance and help from us and [our tutorial on the same topic](https://codecapsules.io/docs/hosting-a-front-end-building-and-deploying-your-portfolio-to-code-capsules/).
+* We published [a tutorial on Steganography](http://docs.repl.it/tutorials/13-steganography) that made the front page of news.ycombinator.com for a few hours.
 
