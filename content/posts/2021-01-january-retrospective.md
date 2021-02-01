@@ -4,10 +4,10 @@ date: 2021-02-01T12:59:48+02:00
 draft: false
 ---
 
-🎉 We got our first ‘real’ MRR - $20/month!
-🎉 We did a new product launch (writing job descriptions -> first revenue in under 48 hours!
-🎉 We grew the team!
-🐌 We failed to sign any new long term clients
+* 🎉 We got our first ‘real’ MRR - $20/month!
+* 🎉 We did a new product launch (writing job descriptions -> first revenue in under 48 hours!
+* 🎉 We grew the team!
+* 🐌 We failed to sign any new long term clients
 
 ## Our first (?) MRR!
 
