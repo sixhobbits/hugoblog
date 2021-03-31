@@ -6,10 +6,48 @@
     <description>Gareth Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Mar 2021 16:37:40 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 12:56:50 +0200</lastBuildDate>
     
     <atom:link href="https://sixhobbits.github.io/hugoblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>March 2021 Retrospective</title>
+      <link>https://sixhobbits.github.io/hugoblog/posts/2021-03-march-retrospective/</link>
+      <pubDate>Wed, 31 Mar 2021 12:56:50 +0200</pubDate>
+      
+      <guid>https://sixhobbits.github.io/hugoblog/posts/2021-03-march-retrospective/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;👥 &lt;em&gt;Team building went better than I could have hoped&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;🐌 &lt;em&gt;Customer acquisition suffered from the focus shift&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;💰 &lt;em&gt;We got (a little) more MRR&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is &lt;a href=&#34;https://ritza.co&#34;&gt;Ritza&amp;rsquo;s&lt;/a&gt; retrospective for March 2021. You can also read our &lt;a href=&#34;https://sixhobbits.github.io/hugoblog/&#34;&gt;previous retrospectives&lt;/a&gt; if this is the first one you&amp;rsquo;re seeing.&lt;/p&gt;
+&lt;h2 id=&#34;team-building-went-better-than-i-could-have-hoped&#34;&gt;Team building went better than I could have hoped&lt;/h2&gt;
+&lt;p&gt;Recap of February: while I was focused on finding new customers and growing the business, two of our core writers quit on the same day, and we went into emergency hiring mode. This turned out better than I could have hoped and we not only found great new people to take over these roles, but this was also a good nudge to better define different roles in the team, and we hired people for these new roles too.&lt;/p&gt;
+&lt;p&gt;One problem we had was that many people used older laptops with lower resolution displays. This meant that the screenshots that they took to supplement the tutorials and guides they were writing didn&amp;rsquo;t look good on 4k or retina displays. People also used different software and styles for annotating these screenshots, leading to inconsistencies.&lt;/p&gt;
+&lt;p&gt;I advertised for a &amp;lsquo;Screenshot creator&amp;rsquo; - someone who had a modern-ish Macbook and who could focus only on creating these screenshots. I advertised the role in a few Slack communities and found someone who had not only a good Macbook, but also development experience. As this role involves walking through each step of the tutorial, it made sense to combine it as a &amp;lsquo;QA&amp;rsquo; role too - making sure that the tutorials &lt;em&gt;could&lt;/em&gt; be easily followed, and that each step made sense etc too. We&amp;rsquo;ve now formalised the role a bit better as a QA role and all of our tutorials and guides now go through this step.&lt;/p&gt;
+&lt;p&gt;Separately, I found a designer on Twitter and reached out. He did the following artwork for one of our tutorials (with a nod to the Python logo and APIs). This was much better than previous design / artwork that I&amp;rsquo;d gotten done on Fiverr or internally by people who knew which end up to hold Canva, and he&amp;rsquo;s agreed to continue working with us more regularly.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://codecapsules.io/docs/content/images/2021/03/CodeCpasules_API@2x.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We found an excellent senior writer - we nearly passed on his application as he didn&amp;rsquo;t have writing samples that were very relevant, but he happened to follow up with me right after someone we &lt;em&gt;had&lt;/em&gt; selected to move forwards for a trial dropped out. The rest of his application looked great, so I asked if he wanted to take over that project.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;So to be honest, one of the writers we shortlisted dropped out today. He was working on a NodeJS websockets project to make two repls (from repl.it) talk to each other in a proof-of-concept/MVP chat application.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;His trial project was great, and we shipped it as part of our March commitments. He is a senior engineer and had this to say about the experience:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;and I&amp;rsquo;m really itching to get back to it - it&amp;rsquo;s so much fun! It&amp;rsquo;s taken me back to the pure joy of coding when I was a kid.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Which was great feedback as this is exactly what I&amp;rsquo;d hoped to find when I started Ritza - engineers like me who would far prefer to work on greenfield proof-of-concept applications than to spend hours fighting with legacy code and people in corporate environments.&lt;/p&gt;
+&lt;p&gt;Finally, we found a junior writer &amp;amp; developer to take over some general tasks like handling the conversion of our articles to different formats, distributing it to various communities, and starting to automate anything that can be automated.&lt;/p&gt;
+&lt;h2 id=&#34;customer-acquisition&#34;&gt;Customer acquisition&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve never liked the term - customers should acquire services, not vice versa. But it&amp;rsquo;s becoming more and more evident that word-of-mouth can only get us so far, and that B2B deals take longer than you expect, even if you&amp;rsquo;re already expecting them to take longer than you expect.&lt;/p&gt;
+&lt;p&gt;While we were pretty short staffed, I stopped most of our outreach efforts to focus on hiring. Now that we are a strong team again, I will resume these in April. We found one new customer in March - someone agreed to sign up for our &lt;a href=&#34;https://editing.ritza.co&#34;&gt;editing.ritza.co&lt;/a&gt; proofreading service after doing a free trial. This was a 100% increase in growth for that particular service which is now on an exciting $40/month.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m back in sales mode for April and hope to reach $20000 MRR before our official first birthday (1 July 2021).&lt;/p&gt;
+&lt;h2 id=&#34;bootstrapping-is-slow&#34;&gt;Bootstrapping is slow&lt;/h2&gt;
+&lt;p&gt;As always, bootstrapping feels slow, especially when I do these and feel like not much has changed since this time last month. Calm growth vs no growth is a hard line to walk, but I am definitely enjoying being on this side of the line compared to the hypergrowth startup I was at before.&lt;/p&gt;
+&lt;p&gt;See you all next month :) As always, if you read and enjoyed this and want to see more/less of anything, drop me an email at &lt;a href=&#34;mailto:gareth@ritza.co&#34;&gt;gareth@ritza.co&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>February 2021 Retrospective</title>
